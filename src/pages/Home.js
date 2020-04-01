@@ -1,13 +1,27 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
+import { FormattedMessage } from "react-intl";
 
 class Home extends Component {
   render() {
     return (
       <div>
-        <h1 className="App-title">Hello, world!</h1>
-        <p>It is a beautiful day outside</p>
-        <Link to="/day">Click here to find out why!</Link>
+        <h1 className="App-title">
+          <FormattedMessage id="Home.header" defaultMessage="Hello world!" />
+        </h1>
+
+        <p>
+          <FormattedMessage
+            id="Home.dayMessage"
+            defaultMessage="It is a beautiful day outside"
+          />
+        </p>
+        <Link to="/day">
+          <FormattedMessage
+            id="Home.dayLink"
+            defaultMessage="Click here to find out why!"
+          />
+        </Link>
       </div>
     );
   }
