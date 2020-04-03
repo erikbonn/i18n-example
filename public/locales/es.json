@@ -1,7 +1,7 @@
 {
-  "Weather.message": "¡Porque es soleado!",
+  "Weather.message": "¡Porque es soleado tonto!",
   "Day.homeLink": "Regresar a inicio",
   "Home.header": "¡Hola Mundo!",
-  "Home.dayMessage": "Es un hermoso día afuera.",
+  "Home.dayMessage": "Hoy es un dia maravilloso.",
   "Home.dayLink": "¡Haz clic aquí para averiguar por qué!"
 }

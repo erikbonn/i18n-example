@@ -1,16 +1,16 @@
 {
   "en": {
-    "Weather.message": "Because it is sunny!",
+    "Weather.message": "Because it is sunny ya goof!",
     "Day.homeLink": "Go back home",
     "Home.header": "Hello world!",
-    "Home.dayMessage": "It is a beautiful day outside",
+    "Home.dayMessage": "It is a beautiful day outside...",
     "Home.dayLink": "Click here to find out why!"
   },
   "es": {
-    "Weather.message": "¡Porque es soleado!",
+    "Weather.message": "¡Porque es soleado tonto!",
     "Day.homeLink": "Regresar a inicio",
     "Home.header": "¡Hola Mundo!",
-    "Home.dayMessage": "Es un hermoso día afuera.",
+    "Home.dayMessage": "Hoy es un dia maravilloso.",
     "Home.dayLink": "¡Haz clic aquí para averiguar por qué!"
   }
 }
