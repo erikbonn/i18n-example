@@ -8,7 +8,7 @@ class Day extends Component {
     return (
       <div>
         <Weather />
-        <Link to="/">
+        <Link to="/" className="link">
           <FormattedMessage id="Day.homeLink" defaultMessage="Go back home" />
         </Link>
       </div>
